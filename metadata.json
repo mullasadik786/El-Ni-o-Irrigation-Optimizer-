@@ -1,0 +1,6 @@
+{
+  "name": "El Niño Irrigation Optimizer",
+  "description": "A high-precision, climate-smart water conservation system optimizing agricultural micro-irrigation schedules during extreme Super El Niño conditions using hyper-local sensor arrays and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
